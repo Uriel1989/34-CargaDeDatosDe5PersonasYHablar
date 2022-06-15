@@ -1,0 +1,14 @@
+while ( marca == "Alfa" && CapacidadDeCarga >6 && RPM > 1200)
+            {
+                Console.WriteLine("La carga y la RPM ingresadas para esa marca estan por encima de los valores permitidos, re-ingrese carga y RPM: ");
+                CapacidadDeCarga = Convert.ToInt32(Console.ReadLine());
+                RPM = Convert.ToInt32(Console.ReadLine());
+
+            }
+
+            while(marca=="Beta" && CapacidadDeCarga > 5 && RPM != 1000)
+            {
+                Console.WriteLine("La carga y la RPM ingresadas para esa marca estan por encima de los valores permitidos, re-ingrese carga y RPM: ");
+                CapacidadDeCarga = Convert.ToInt32(Console.ReadLine());
+                RPM = Convert.ToInt32(Console.ReadLine());
+            }

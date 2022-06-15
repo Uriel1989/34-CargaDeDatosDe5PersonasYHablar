@@ -1,0 +1,6 @@
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\33-CargaDeDatosDe5PersonasYHablar\33-CargaDeDatosDe5PersonasYHablar\bin\Debug\33-CargaDeDatosDe5PersonasYHablar.exe
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\33-CargaDeDatosDe5PersonasYHablar\33-CargaDeDatosDe5PersonasYHablar\bin\Debug\33-CargaDeDatosDe5PersonasYHablar.pdb
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\33-CargaDeDatosDe5PersonasYHablar\33-CargaDeDatosDe5PersonasYHablar\obj\Debug\33-CargaDeDatosDe5PersonasYHablar.csprojAssemblyReference.cache
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\33-CargaDeDatosDe5PersonasYHablar\33-CargaDeDatosDe5PersonasYHablar\obj\Debug\33-CargaDeDatosDe5PersonasYHablar.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\33-CargaDeDatosDe5PersonasYHablar\33-CargaDeDatosDe5PersonasYHablar\obj\Debug\33-CargaDeDatosDe5PersonasYHablar.exe
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\33-CargaDeDatosDe5PersonasYHablar\33-CargaDeDatosDe5PersonasYHablar\obj\Debug\33-CargaDeDatosDe5PersonasYHablar.pdb
